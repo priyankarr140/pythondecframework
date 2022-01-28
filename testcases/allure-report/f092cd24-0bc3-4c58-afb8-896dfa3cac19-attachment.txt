@@ -1,0 +1,2 @@
+INFO     utilities.Base:test_login.py:17 Browser got opened
+INFO     utilities.Base:test_login.py:23 Search box got clicked
